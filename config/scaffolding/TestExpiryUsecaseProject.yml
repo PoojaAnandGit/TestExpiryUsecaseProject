@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TestExpiryUsecaseProject
+  gitServerName: testTokenExpiry
+  gitUrl: https://github.com/PoojaAnandGit/TestExpiryUsecaseProject
+  gitUsername: PoojaAnandGit
+  gitBranch: main
