@@ -46,7 +46,7 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">flowadmin</value>
-    <value name="lastModifiedDate">1717140936237</value>
+    <value name="lastModifiedDate">1717144568613</value>
     <null name="edgeServer"/>
     <value name="displayName">test2</value>
     <value name="description"></value>
