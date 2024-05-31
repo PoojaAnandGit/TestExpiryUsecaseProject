@@ -46,7 +46,7 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">flowadmin</value>
-    <value name="lastModifiedDate">1717165700803</value>
+    <value name="lastModifiedDate">1717165756971</value>
     <null name="edgeServer"/>
     <value name="displayName">test</value>
     <value name="description"></value>
@@ -82,6 +82,8 @@
           <value name="transformerSupport">true</value>
         </record>
         <number name="lineNumber" type="Long">2</number>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
+        <value name="nodePathForDebug">1</value>
       </record>
     </record>
   </record>
