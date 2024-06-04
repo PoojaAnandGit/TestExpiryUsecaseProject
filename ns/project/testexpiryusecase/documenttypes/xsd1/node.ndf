@@ -10,12 +10,11 @@
       <record name="revisionData" javaclass="com.wm.util.Values">
         <value name="createdBy">flowadmin</value>
         <value name="createdByUserId">9fe2810faf9f4e82bb09e5453eeb7afb</value>
-        <number name="createdDate" type="Long">1717139866607</number>
+        <number name="createdDate" type="Long">1717512201273</number>
         <value name="lastModifiedBy">flowadmin</value>
         <value name="lastModifiedByUserId">9fe2810faf9f4e82bb09e5453eeb7afb</value>
-        <number name="lastModifiedDate" type="Long">1717139870397</number>
+        <number name="lastModifiedDate" type="Long">1717512201290</number>
       </record>
-      <Boolean name="wMIODocTypeReplica">true</Boolean>
     </record>
     <value name="is_public">false</value>
     <value name="field_type">record</value>
@@ -23,18 +22,12 @@
     <value name="nillable">true</value>
     <value name="form_qualified">false</value>
     <value name="is_global">false</value>
-    <value name="schemaDomain">3c20502b3de24638b816c1c7e83d7a5c</value>
+    <value name="schemaDomain">d56452aeae4945fa9491576c7ed883cf</value>
     <value name="originURI">books.xsd</value>
     <array name="rec_fields" type="record" depth="1">
       <record javaclass="com.wm.util.Values">
         <value name="node_type">record</value>
         <value name="node_subtype">unknown</value>
-        <value name="node_nsName">fld_2041028534_stage00.projects.fl0dee4f03f420f53b575f24.documenttypes:docTypeRef_bks_BooksForm</value>
-        <record name="node_hints" javaclass="com.wm.util.Values">
-          <value name="field_largerEditor">false</value>
-          <value name="field_password">false</value>
-          <value name="field_usereditable">true</value>
-        </record>
         <value name="is_public">false</value>
         <value name="field_name">bks:books</value>
         <value name="field_type">recref</value>
@@ -45,7 +38,7 @@
         <value name="is_global">false</value>
         <value name="rec_closed">true</value>
         <value name="modifiable">true</value>
-        <value name="rec_ref">fld_2041028534_stage00.projects.fl0dee4f03f420f53b575f24.documenttypes:docTypeRef_bks_BooksForm</value>
+        <value name="rec_ref">project.testexpiryusecase.documenttypes:docTypeRef_bks_BooksForm</value>
       </record>
     </array>
     <value name="modifiable">false</value>
